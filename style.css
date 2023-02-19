@@ -1,0 +1,55 @@
+body{
+    background-color: darkgrey;
+    margin:0;
+    padding:0;
+    border:0;
+    height: 100%;
+    width: 100%;
+    z-index:-1;
+    
+}
+
+
+.Title,
+.Footer
+    {
+    text-align: center;
+}
+
+.body{
+    height:600px;
+}
+
+.gridContainer {
+    width:500px;
+    height:500px;
+    display: grid;
+    margin-left:32%;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    grid-template-columns: repeat(16, auto);
+
+}
+
+.gridElement{
+    width: 31.25px;
+    height: 31.25px;
+    text-align: center;
+    border: 0px;
+    background-color: white;
+    display: inline-block;
+    
+}
+
+.buttons{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+    
+}
+
+.off{
+    font-size:26px;
+    color:white;
+    background-color: rgb(32,32,32);
+}
