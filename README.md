@@ -1,2 +1,4 @@
-# Etch-A-Sketch A project where you can draw all you want! Version 1 is finally out there where you can set it to a certain color to draw on canva or if your feeling creative, you can select to rainbow setting!
+# Etch-A-Sketch A project where you can draw all you want. A copycat of paint/Sketchpad.
+# Version 1  02/19/2022 Inlcudes color selection, rainbow selectoin, eraser, clear selection.
+
 
